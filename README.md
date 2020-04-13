@@ -2,12 +2,12 @@
 
 Hello and welcome!
 
-## Technologies Used
+## Tech Stack
 * Node.js (Express)
   - SSEvents
   - Python spawn processes
 * React 16
-  - Global store w/hooks
+  - Global store w/context, state
   - Interactivity of layout
   - Live data updates
 * Python
